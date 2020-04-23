@@ -1,0 +1,7 @@
+.foodList {
+    display: flex;
+}
+
+.foodList section {
+    border: 1px solid black;
+}
